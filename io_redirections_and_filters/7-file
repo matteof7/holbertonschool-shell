@@ -1,3 +1,2 @@
 #!/bin/bash
 echo -e '#!/bin/bash\nfile_name=\'Best School\'\necho "Best School" > "$file_name"' > 7-file
-
