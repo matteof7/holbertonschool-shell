@@ -1,2 +1,2 @@
 #!/bin/bash
-set -F  declare
+set
